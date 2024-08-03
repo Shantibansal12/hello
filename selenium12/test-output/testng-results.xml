@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-01T23:17:26Z" name="Suite" finished-at="2024-08-01T23:17:26Z" duration-ms="69">
+    <groups>
+    </groups>
+    <test started-at="2024-08-01T23:17:26Z" name="Test" finished-at="2024-08-01T23:17:26Z" duration-ms="69">
+      <class name="selenium12.get">
+        <test-method signature="a()[pri:0, instance:selenium12.get@53de625d]" started-at="2024-08-02T04:47:26Z" name="a" finished-at="2024-08-02T04:47:26Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+      </class> <!-- selenium12.get -->
+      <class name="selenium12.s">
+        <test-method signature="d()[pri:0, instance:selenium12.s@3a5ecce3]" started-at="2024-08-02T04:47:26Z" name="d" finished-at="2024-08-02T04:47:26Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+      </class> <!-- selenium12.s -->
+      <class name="selenium12.all">
+        <test-method signature="b()[pri:0, instance:selenium12.all@47f9738]" started-at="2024-08-02T04:47:26Z" name="b" finished-at="2024-08-02T04:47:26Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+      </class> <!-- selenium12.all -->
+      <class name="selenium12.as">
+        <test-method signature="s()[pri:0, instance:selenium12.as@6155d082]" started-at="2024-08-02T04:47:26Z" name="s" finished-at="2024-08-02T04:47:26Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s -->
+      </class> <!-- selenium12.as -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
